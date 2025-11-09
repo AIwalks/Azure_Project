@@ -1,0 +1,9 @@
+{
+	"name": "df-portfolioproject-spotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e098e3e-f1a5-4396-b7e8-04b0034599c9",
+		"tenantId": "9697db58-10af-4221-8430-328e6b8d4570"
+	}
+}
